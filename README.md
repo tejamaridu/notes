@@ -1,22 +1,22 @@
 # Notes
 
-## Java
+### Java
 
-## Javascript
+### Javascript
 
-## SQL
+### SQL
 
-## Angular
+### Angular
 
-## Rest API
+### Rest API
 
-## Bootstrap
+### Bootstrap
 
-## CSS3
+### CSS3
 
-## GIT
+### GIT
 
-## Agile 
+### Agile 
 
-## Markdown
+### Markdown
 
