@@ -62,7 +62,19 @@
 
 <br><br>
 
+## Maven
+### Build package
+` mvn clean package `
+
+<br><br>
+
+
 ## MISC
 ### List
 To show all files from current location <br>
 ` ls -la `
+
+
+### Remove Files
+To remove files, folders from current location <br>
+` rm -rf <branch_name1, branch_name2, branch_name1> `
