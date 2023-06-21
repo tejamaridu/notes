@@ -1,7 +1,6 @@
 # Java 8
 
-### What are the Java 8 features?
-Java 8 provides the following features for Java Programming:
+### What are the Java 8 new features?
 1.	Lambda expressions
 2.	Method references
 3.	Functional interfaces
