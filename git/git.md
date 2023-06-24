@@ -1,38 +1,48 @@
  
 # GIT
- 
+
+ ### Getting & Setting up 
+
+| Command | Description |
+| ------- | ----------- |
+| `git init` | Initialize a local Git repository |
+| `git clone <git_hub_url>` | Create a local copy of a remote repository |
+| `git config -- user.email "email_id"` | Configure  User Email |
+| `git config -- user.name "your_name"` | Configure  User Name |
+
+
 ## Setup *
-### Setup User Email, Name
+#### 
 `git config -- user.email "email_id"` <br>
 `git config -- user.name "your_name"`
 
 <br>
 
 ## Branches
-### Show all branches
+#### Show all branches
  `git branch`
  
-### Checkout or switch to an existing branch
+#### Checkout or switch to an existing branch
 `git checkout <branch_name>`
 
-### Create & checkout branch (copies from current checked-out branch)
+#### Create & checkout branch (copies from current checked-out branch)
    `git checkout -b <branch_name>`
    
-### new branch naming conventions 
+#### new branch naming conventions 
  **For new feature:**  `git checkout -b <feature/name>` <br>
  **For new bugfix:**  `git checkout -b <bugfix/name>` <br>
  **For new hotfix:**  `git checkout -b <hotfix/name>`
    
-### Create & checkout branch (copies from specific branch)
+#### Create & checkout branch (copies from specific branch)
    `git checkout -b <new_branch_name> <existing_branch_name>`
  
-### Delete a branch
+#### Delete a branch
   ` git branch --delete <branch_name> `
 
 <br>
 
 ## Merge *
-### Merge files to the main branch
+#### Merge files to the main branch
 **Change to main branch** <br>
   ` git checkout main `
 
@@ -42,7 +52,7 @@
 <br> 
 
 ## Commit
-### Add files
+#### Add files
   **Add all files** <br>
  ` git add . ` <br>
  
@@ -50,13 +60,13 @@
    ` git add <file_name1, file_name2, etc> ` <br>
  Note: Must add files before commit
  
-### Commit the Added files
+#### Commit the Added files
 ` git commit -m 'info_message' `
 
 <br>
 
 ## Push *
-### Push to origin
+#### Push to origin
 **Push a branch to remote repository** <br>
 ` git push <variable name ex:origin> <branch_name> `
   
@@ -66,10 +76,10 @@
 <br>
 
 ## Pull *
-### Pull from remote repository 
+#### Pull from remote repository 
 ` git pull [repository link] `
 
-### Pull all changes 
+#### Pull all changes 
 ` git pull `
 
 <br>
@@ -79,18 +89,18 @@
 <br> 
 
 ## Maven
-### Build package
+#### Build package
 ` mvn clean package `
 
 <br> 
 
 
 ## MISC
-### List
+#### List
 To show all files from current location <br>
 ` ls -la `
 
 
-### Remove Files
+#### Remove Files
 To remove files, folders from current location <br>
 ` rm -rf <branch_name1, branch_name2, branch_name1> `
