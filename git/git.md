@@ -1,29 +1,45 @@
  
 # GIT
  
-## <span style="color: blue;">Setup</span> 
+## Setup *
 ### Setup User Email, Name
 `git config -- user.email "email_id"` <br>
 `git config -- user.name "your_name"`
 
-<br><br>
+<br>
 
 ## Branches
-### Show all branchs
+### Show all branches
  `git branch`
  
-### Create a new branch 
-  `git branch <feature/name>` <br>
-  `git branch <bugfix/name>` <br>
-  `git branch <hotfix/name>`
-
-### Create & Checkout Branch at one time
-   `git checkout -b  <feature/name>`
-
-### Switch to existing branch
+### Checkout or switch to an existing branch
 `git checkout <branch_name>`
 
-<br><br>
+### Create & checkout branch (copies from current checked-out branch)
+   `git checkout -b <branch_name>`
+   
+### new branch naming conventions 
+ **For new feature:**  `git checkout -b <feature/name>` <br>
+ **For new bugfix:**  `git checkout -b <bugfix/name>` <br>
+ **For new hotfix:**  `git checkout -b <hotfix/name>`
+   
+### Create & checkout branch (copies from specific branch)
+   `git checkout -b <new_branch_name> <existing_branch_name>`
+ 
+### Delete a branch
+  ` git branch --delete <branch_name> `
+
+<br>
+
+## Merge *
+### Merge files to the main branch
+**Change to main branch** <br>
+  ` git checkout main `
+
+**Merge files** <br>
+  ` git merge <branch_name> `
+
+<br> 
 
 ## Commit
 ### Add files
@@ -37,19 +53,9 @@
 ### Commit the Added files
 ` git commit -m 'info_message' `
 
-<br><br>
+<br>
 
-## Merge
-### Merge files to main branch
-**Change to main branch** <br>
-  ` git checkout main `
-
-**Merge files** <br>
-  ` git merge <branch_name> `
-
-<br><br>
-
-## Push
+## Push *
 ### Push to origin
 **Push a branch to remote repository** <br>
 ` git push <variable name ex:origin> <branch_name> `
@@ -57,16 +63,26 @@
 **Push all branches, This command pushes all branches to your remote repository.** <br>
 ` git push -all <variable name ex:origin> `
 
-### Push to remote repository 
+<br>
+
+## Pull *
+### Pull from remote repository 
 ` git pull [repository link] `
 
-<br><br>
+### Pull all changes 
+` git pull `
+
+<br>
+
+## Rebase *
+
+<br> 
 
 ## Maven
 ### Build package
 ` mvn clean package `
 
-<br><br>
+<br> 
 
 
 ## MISC
