@@ -2,12 +2,12 @@
 <summary> <b>Table of Contents</b> </summary>
 <!-- MarkdownTOC -->
 
-1. [Starter](#starter)
-2. [Overview](#overview)
-3. [Features & Concepts](#features-&-concepts)
-4. [All Design Patterns](#all-design-patterns)
-5. [Best Practices](#best-practices)
-6. [Interview Questions](#interview-questions)
+1. [Starter](#2-overview)
+2. [Overview](#2-overview)
+3. [Features & Concepts](#3-features--concepts)
+4. [All Design Patterns](#4-all-design-patterns)
+5. [Best Practices](#5-best-practices)
+6. [Interview Questions](#6-interview-questions)
 
 <!-- /MarkdownTOC -->
 </details>
