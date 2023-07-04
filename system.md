@@ -2,12 +2,12 @@
 <summary> <b>Table of Contents</b> </summary>
 <!-- MarkdownTOC -->
 
-1. [Starter](#helpful-links)
-2. [Overview](#sublime-text-settings)
-3. [Features & Concepts](#packages-to-install)
-4. [All Design Patterns](#packages-to-install)
-5. [Best Practices](#packages-to-install)
-6. [Interview Questions](#packages-to-install)
+1. [Starter](#starter)
+2. [Overview](#overview)
+3. [Features & Concepts](#features-&-concepts)
+4. [All Design Patterns](#all-design-patterns)
+5. [Best Practices](#best-practices)
+6. [Interview Questions](#interview-questions)
 
 <!-- /MarkdownTOC -->
 </details>
