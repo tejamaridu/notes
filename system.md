@@ -7,6 +7,7 @@
 3. [Features & Concepts](#packages-to-install)
 4. [All Design Patterns](#packages-to-install)
 5. [Best Practices](#packages-to-install)
+6. [Interview Questions](#packages-to-install)
 
 <!-- /MarkdownTOC -->
 </details>
