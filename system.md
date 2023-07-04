@@ -36,7 +36,9 @@
    - Write a small description of each topic
 
 ### 3. Features & Concepts
-  #### 3.1 Mention each Feature or Concept
+  #### 3.1 Mention each feature or concept
+   - What is the purpose of it
+   - Write a clear definition of it
    - Explanation & Functionality
    - Understand what's happening in the background
    - Syntax
