@@ -1,13 +1,29 @@
 # Interview Questions
 
+<p style="text-align: center;">Text_content</p> 
 
-| Header 1 | Header 2 | Header 3 |
-|:--------:|:--------:|:--------:|
-|    This is Content, bla bla bla bla      |     This is Content, bla bla bla bla     |     This is Content, bla bla bla bla     |
-|    This is Content, bla bla bla bla      |     This is Content, bla bla bla bla     |     This is Content, bla bla bla bla     |
-|    This is Content, bla bla bla bla      |     This is Content, bla bla bla bla     |     This is Content, bla bla bla bla     |
-|    This is Content, bla bla bla bla      |     This is Content, bla bla bla bla     |     This is Content, bla bla bla bla     |
-|    This is Content, bla bla bla bla      |     This is Content, bla bla bla bla     |     This is Content, bla bla bla bla     |
-|    This is Content, bla bla bla bla      |     This is Content, bla bla bla bla     |     This is Content, bla bla bla bla     |
+### Exceptions
+**ClassNotFoundException vs NoClassDefFoundError**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
