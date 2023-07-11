@@ -16,3 +16,6 @@ Open API specifications describe what a REST API can do. It typically returns in
 
 **3. Extend with Tooling:** 1. API validator 2. API Doc generator. 3. SDK Generator.
 
+
+RESTful Interface:
+
