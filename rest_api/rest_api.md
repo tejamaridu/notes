@@ -116,7 +116,7 @@ HTTP status codes are three-digit numbers that are returned by servers to indica
     -   403 Forbidden: The client does not have permission to access the requested resource.
     -   404 Not Found: The requested resource could not be found on the server.
     
-**5.  **Server error responses (5xx):** These status codes indicate that the server encountered an error while processing the client's request.
+**5.  Server error responses (5xx):** These status codes indicate that the server encountered an error while processing the client's request.
     -   500 Internal Server Error: An unexpected condition was encountered on the server, and no more specific message is suitable.
     -   502 Bad Gateway: The server received an invalid response from an upstream server while trying to fulfill the request.
     -   503 Service Unavailable: The server is currently unable to handle the request due to temporary overloading or maintenance of the server.
