@@ -70,3 +70,33 @@ Angular follows a component-based architecture, where each component represents 
 Angular is a comprehensive framework that provides developers with powerful tools and concepts to build robust and scalable web applications. Understanding all the key features, including components, templates, data binding, services, modules, directives, dependency injection, routing, and forms, is essential for becoming proficient in Angular development.
 
 In your Angular journey, it's essential to explore the official Angular documentation, community tutorials, and real-world projects to deepen your knowledge and experience with this versatile front-end framework. Happy coding!
+
+
+
+### Set up
+#### Install NodeJs
+- **Website:** Download and Install it from https://nodejs.org/en/download/current <br>
+- **Definition:** Node.js is an open-source, server-side JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser. It's built on the V8 JavaScript engine and is designed for building scalable, networked applications. Node.js is commonly used for building server-side applications and APIs, but it's also an essential part of the development stack when working with Angular.
+- **How Node.js is used in conjunction with Angular:**
+  1. Server-Side Development: Node.js is often used to create the server-side component of web applications. You can build APIs, handle database operations, and manage server resources using Node.js. It's a great choice for creating RESTful APIs, as it's lightweight and efficient.
+
+  2. Development Tools: Many development tools, build systems, and package managers are built using Node.js. For Angular development, the Angular CLI (Command Line Interface) is a popular tool that's built on Node.js. The CLI helps you generate and manage Angular projects, components, services, and more.
+
+  3. Package Management: Node.js has its own package manager called npm (Node Package Manager). It is the default package manager for Node.js and is used for managing project dependencies. In Angular projects, you use npm to install, update, and manage third-party libraries and packages.
+
+  4. Server for Angular Applications: While Angular is a front-end framework, you can use Node.js to serve your Angular applications. Node.js can be configured to serve static files, including your compiled Angular application, and it's often used as a development server during Angular application development.
+
+  5. Real-Time Web Applications: Node.js is well-suited for building real-time web applications, such as chat applications or interactive dashboards. When combined with a library like Socket.io, Node.js can facilitate real-time communication between the server and the client in an Angular application.
+
+  6. Server-Side Rendering (SSR): Node.js can be used for server-side rendering of Angular applications, improving initial page load times and search engine optimization. Tools like Angular Universal leverage Node.js for SSR.
+
+#### Install Angular CLI
+- Run this command in the terminal
+`npm install -g @angular/cli@latest`
+
+#### Create an angular app
+- Command for creating a new project: `ng new my-project --no-strict`
+- Open it created project: `cd my-project`
+- Run the project: `ng serve`
+
+
