@@ -107,4 +107,11 @@ It contains descriptive and functional metadata about a project, such as a name,
 #### e2e Folder:
 E2E (End-to-End) testing is a testing approach that is used to ensure the overall functionality and behaviour of an application from the user's perspective. The purpose of E2E testing is to simulate real user interactions with the application and verify that the application works as expected when all its components are integrated together. E2E tests typically involve automating interactions such as clicking buttons, filling out forms, and navigating through different parts of the application to catch issues that might not be apparent through unit or integration testing. E2E tests help identify user interface bugs, functional regressions, and integration problems, providing confidence in the application's correctness and usability before it is deployed to production. Popular tools like Protractor and Cypress are often used for E2E testing in Angular applications.
 
+#### src folder:
+The "src" folder in Angular is where you keep all the core source code, templates, styles, and assets for your application. It's like the engine room of your Angular project, containing everything needed to make your app work and look good.
+
+
+
+
+
 
