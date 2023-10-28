@@ -1,4 +1,4 @@
-## Angular
+0## Angular
 
 ### What is Angular?
 Angular is a popular open-source front-end web application framework developed and maintained by Google. It allows developers to build dynamic, single-page web applications (SPAs) with a structured and component-based approach. Angular provides a set of tools, libraries, and best practices that simplify the development process and enhance the overall performance of web applications.
